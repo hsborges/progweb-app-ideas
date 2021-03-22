@@ -23,9 +23,7 @@ Os temas disponíveis para desenvolvimento são:
 | --------------------------------------- | ------------------------------------------------------------ |
 | [Loja Online](./temas/loja-online.md)   | Venda de produtos online                                     |
 | [To-Do](./temas/to-do-app.md)           | Gerencie suas tarefas diárias                                |
-| [Calendario](./temas/calendario.md)     | Organize seus dias                                           |
 | [Chat](./temas/chat-app.md)             | Comunicação em tempo real                                    |
-| [Fast Food](./temas/fast-food-app.md)   | Uma aplicação de fast-food                                   |
 | [Minha Crítica](./temas/critica-app.md) | Aplicação para registrar críticas de filmes, series e livros |
 | [Podcast](./temas/my-podcast-app.md)    | Crie playlists com os podcasts favoritos                     |
 | [Survey](./temas/survey-app.md)         | Defina, conduza e vizualize um survey                        |
